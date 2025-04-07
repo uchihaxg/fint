@@ -292,6 +292,6 @@ This module checks if the line exceeds a certain length.
 
 ## License
 
-Copyright (c) 2014 Soichiro Kashima  
+Copyright (c) **2014** Soichiro Kashima  
 Licensed under MIT license.  
 See the bundled [LICENSE](https://github.com/ksoichiro/fint/blob/master/LICENSE) file for details.
